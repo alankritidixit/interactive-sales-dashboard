@@ -15,7 +15,7 @@ as slicers and pivot-based visuals.
 
 ## Dashboard Preview
 
-![Sales Dashboard](Dashboard%20image.png)
+![Sales Dashboard](Dashboard Image.png)
 
 ------------------------------------------------------------------------
 
